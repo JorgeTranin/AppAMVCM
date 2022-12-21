@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90714310672",
+    "project_id": "appamvcm-eeacc",
+    "storage_bucket": "appamvcm-eeacc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90714310672:android:47d01b86d498d3307e2295",
+        "android_client_info": {
+          "package_name": "com.visitantes.appamvcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90714310672-pf3fim93i8fgsnu8vm7a7ud1d41qm7qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jL3OY0HhLs1QCcukgH9mtzKIm9BdeCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90714310672-pf3fim93i8fgsnu8vm7a7ud1d41qm7qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
