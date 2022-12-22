@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App AMVCM</string>
+    <string name="select_image">Selecione a Imagem</string>
+    <string name="upload_button">Salvar</string>
+    <string name="description">Descrição</string>
+    <string name="title">Titulo</string>
+    <string name="feed_title">Titulo</string>
+    <string name="trash_date">Data</string>
+</resources>

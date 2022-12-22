@@ -48,7 +48,7 @@ class UploadActivity : AppCompatActivity() {
     lateinit var notificationManager: NotificationManager
     lateinit var notificationChannel: NotificationChannel
     lateinit var builder: Notification.Builder
-    private val channelID = "com.mergenc.appcentmentorbudy.activity"
+    private val channelID = "com.visitantes.appamvcm.activity"
     private val notificationDescription = "Image uploaded successfully."
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -143,7 +143,7 @@ class UploadActivity : AppCompatActivity() {
                                 .setLargeIcon(
                                     BitmapFactory.decodeResource(
                                         this.resources,
-                                        R.drawable.appcent_mentorbuddy
+                                        R.drawable.ic_launcher_foreground
                                     )
                                 )
                                 .setSmallIcon(android.R.drawable.stat_sys_upload_done)

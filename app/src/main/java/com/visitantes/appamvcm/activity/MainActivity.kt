@@ -21,8 +21,8 @@ class MainActivity : AppCompatActivity() {
     private fun setTabs() {
         val adapter = ViewPagerAdapter(supportFragmentManager)
 
-        adapter.addFragment(FeedFragment(), "Feed")
-        adapter.addFragment(TrashFragment(), "Trash")
+        adapter.addFragment(FeedFragment(), "Visitantes")
+        adapter.addFragment(TrashFragment(), "Apagados")
 
         viewPager.adapter = adapter
 

@@ -9,9 +9,9 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardViewImageView"
-        android:layout_width="275dp"
-        android:layout_height="275dp"
-        android:layout_marginTop="50dp"
+        android:layout_width="242dp"
+        android:layout_height="255dp"
+        android:layout_marginTop="8dp"
         app:cardBackgroundColor="@color/myGrey"
         app:cardCornerRadius="20dp"
         app:cardElevation="0dp"
